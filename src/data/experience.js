@@ -1,0 +1,35 @@
+export const experienceData = [
+  {
+    id: "tcs",
+    role: "System Engineer",
+    company: "Tata Consultancy Services (TCS)",
+    location: "Bengaluru, India",
+    startDate: "Jun 2025",
+    endDate: "Present",
+    domain: "Data Engineering",
+    technologies: ["Python", "SQL", "PySpark", "Databricks", "Power BI"],
+    responsibilities: [
+      "Developing practical Data Engineering skills through hands-on training and projects involving PySpark, Databricks, Python, SQL, and Power BI.",
+      "Learning data processing techniques and building data workflows using Azure Databricks.",
+      "Applying Python and SQL for data manipulation, querying, transformation, and problem-solving.",
+      "Exploring data validation, data quality, and structured data processing workflows.",
+      "Developing an understanding of data engineering practices and modern big data technologies.",
+    ],
+  },
+  {
+    id: "tap-academy",
+    role: "Java Full Stack Intern",
+    company: "Tap Academy",
+    location: "Bengaluru, India",
+    startDate: "May 2025",
+    endDate: "Dec 2025",
+    domain: "Full Stack Development",
+    technologies: ["Java", "HTML", "CSS", "JavaScript", "MySQL", "Spring Boot", "REST APIs"],
+    responsibilities: [
+      "Gained hands-on experience in Java full-stack development using Core Java, HTML, CSS, JavaScript, and MySQL.",
+      "Practiced CRUD-based web application development and database connectivity.",
+      "Worked on responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript.",
+      "Developed foundational knowledge of application development and REST API integration.",
+    ],
+  },
+];
